@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cude Blog v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-03-03 10:48:18+0000\n"
+"Last-Translator: admin <spoot@bk.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: archive.php:29
+#: index.php:25
+#: search.php:26
+#@ cude-blog
+msgid "<i class=\"fa fa-angle-left\" aria-hidden=\"true\"></i>"
+msgstr "<i class=\"fa fa-angle-left\" aria-hidden=\"true\"></i>"
+
+#: archive.php:30
+#: index.php:26
+#: search.php:27
+#@ cude-blog
+msgid "<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i>"
+msgstr "<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i>"
+
+#: comments.php:44
+#@ cude-blog
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: functions.php:16
+#@ cude-blog
+msgid "Primary"
+msgstr "Primary"
+
+#: functions.php:51
+#@ cude-blog
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:53
+#: functions.php:63
+#@ cude-blog
+msgid "Add widgets here."
+msgstr "Add widgets here."
+
+#: functions.php:61
+#@ cude-blog
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer.php:22
+#@ cude-blog
+msgid "Post/page settings"
+msgstr "Post/page settings"
+
+#: inc/customizer.php:35
+#@ cude-blog
+msgid "Blog Title"
+msgstr "Blog Title"
+
+#: inc/customizer.php:44
+#@ cude-blog
+msgid "Blog Image"
+msgstr "Blog Image"
+
+#: inc/customizer.php:57
+#@ cude-blog
+msgid "Hide Categoty and Tags"
+msgstr "Hide Categoty and Tags"
+
+#: inc/customizer.php:70
+#@ cude-blog
+msgid "Hide publication date"
+msgstr "Hide publication date"
+
+#: inc/customizer.php:83
+#@ cude-blog
+msgid "Use blog image as post/page featured image"
+msgstr "Use blog image as post/page featured image"
+
+#: inc/template-functions.php:10
+#@ cude-blog
+msgid "Search Results for: "
+msgstr "Search Results for:"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:16
+#, php-format
+#@ cude-blog
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:29
+#@ cude-blog
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: template-parts/content-none.php:33
+#@ cude-blog
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: archive.php:33
+#: index.php:29
+#: search.php:30
+#@ cude-blog
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: comments.php:16
+#: comments.php:33
+#@ cude-blog
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:18
+#: comments.php:35
+#@ cude-blog
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:19
+#: comments.php:36
+#@ cude-blog
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
